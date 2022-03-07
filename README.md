@@ -135,3 +135,9 @@ for i in data['emp_details']:
 f.close()
 
 
+MUltithread and processing:
+
+running multiple processes parallely
+
+
+
